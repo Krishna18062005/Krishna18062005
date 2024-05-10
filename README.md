@@ -8,7 +8,7 @@
 
 **Currently Learning:** I'm currently learning Java.
 
-**All of my projects are available at:** https://github.com/krishmatrix.netlify.app
+**All of my projects are available at:** https://krishmatrix.netlify.app
 
 **Ask me about:** Programming,Problem Solving
 
