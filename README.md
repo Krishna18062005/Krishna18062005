@@ -1,4 +1,4 @@
-##  Hi, I'm Krishna K.
+##  Hi, I'm Krishna
 
 **A Coding Enthusiast from KRCE,Trichy**
 
