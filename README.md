@@ -11,9 +11,7 @@
 [![Pull Requests](https://img.shields.io/github/pulls/krishna18062005?style=social)](https://github.com/[your-username]/pulls)
 [![Reviews](https://img.shields.io/github/prs?q=is%3Aissue+author%3Akrishna18062005)?style=social](https://github.com/krishna18062005/pulls)
 
-* **[Level 1]** - **[Title 1]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions))
-* **[Level 2]** - **[Title 2]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions)) 
-* **[Level 3]** - **[Title 3]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions)) 
+
 
 
 **Currently Learning:** I'm currently learning Java.
