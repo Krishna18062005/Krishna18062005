@@ -2,9 +2,9 @@
 
 **A Coding Enthusiast from KRCE,Trichy**
 
-[![Followers](https://img.shields.io/github/followers/krishna18062005?style=social)](https://github.com/[your-username])
+[![Followers](https://img.shields.io/github/followers/krishna18062005?style=social)](https://github.com/krishna18062005)
 
-[![Stars](https://img.shields.io/github/stars/krishna18062005?style=social)](https://github.com/[your-username])
+[![Stars](https://img.shields.io/github/stars/krishna18062005?style=social)](https://github.com/krishna18062005)
 
 **Currently Learning:** I'm currently learning Java.
 
