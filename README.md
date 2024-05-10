@@ -5,21 +5,13 @@
 [![Followers](https://img.shields.io/github/followers/krishna18062005?style=social)](https://github.com/[your-username])
 
 
-[![Issues](https://img.shields.io/github/issues/krishna18062005?style=social)](https://github.com/[your-username]/issues)
-[![Pull Requests](https://img.shields.io/github/pulls/krishna18062005?style=social)](https://github.com/[your-username]/pulls)
-[![Reviews](https://img.shields.io/github/prs?q=is%3Aissue+author%3Akrishna18062005)?style=social](https://github.com/krishna18062005/pulls)
-
-
-
-
 **Currently Learning:** I'm currently learning Java.
 
 **All of my projects are available at:** https://github.com/krishmatrix.netlify.app
 
-**Ask me about:** Programming
+**Ask me about:** Programming,Problem Solving
 
 **How to reach me:** krish1826s@gmail.com
-
 
 
 
