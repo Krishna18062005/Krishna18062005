@@ -1,52 +1,47 @@
-##  Hi, I'm [Your Name]
+##  Hi, I'm Krishna K.
 
-**A [Your Job Title] from [Your Location]**
+**A Student from KRCE,Trichy**
 
-[![Followers](https://img.shields.io/github/followers/[your-username]?style=social)](https://github.com/[your-username])
-[![Repositories](https://img.shields.io/github/repo/[your-username]?style=social)](https://github.com/[your-username])
-[![Commits](https://img.shields.io/github/commits-year/[your-username]?style=social)](https://github.com/[your-username])
-[![Stars](https://img.shields.io/github/stars/[your-username]?style=social)](https://github.com/[your-username])
+[![Followers](https://img.shields.io/github/followers/krishna18062005?style=social)](https://github.com/[your-username])
+[![Repositories](https://img.shields.io/github/repo/krishna18062005?style=social)](https://github.com/[your-username])
+[![Commits](https://img.shields.io/github/commits-year/krishna18062005?style=social)](https://github.com/[your-username])
+[![Stars](https://img.shields.io/github/stars/krishna18062005?style=social)](https://github.com/[your-username])
 [![Experience](https://img.shields.io/badge/Experience-Level_[level]?style=social)]()  
-[![Issues](https://img.shields.io/github/issues/[your-username]?style=social)](https://github.com/[your-username]/issues)
-[![Pull Requests](https://img.shields.io/github/pulls/[your-username]?style=social)](https://github.com/[your-username]/pulls)
-[![Reviews](https://img.shields.io/github/prs?q=is%3Aissue+author%3A[your-username])?style=social](https://github.com/[your-username]/pulls)
+[![Issues](https://img.shields.io/github/issues/krishna18062005?style=social)](https://github.com/[your-username]/issues)
+[![Pull Requests](https://img.shields.io/github/pulls/krishna18062005?style=social)](https://github.com/[your-username]/pulls)
+[![Reviews](https://img.shields.io/github/prs?q=is%3Aissue+author%3Akrishna18062005)?style=social](https://github.com/krishna18062005/pulls)
 
-* **[Level 1]** - **[Title 1]** ([# of Contributions](https://github.com/[your-username]?tab=contributions))
-* **[Level 2]** - **[Title 2]** ([# of Contributions](https://github.com/[your-username]?tab=contributions)) 
-* **[Level 3]** - **[Title 3]** ([# of Contributions](https://github.com/[your-username]?tab=contributions)) 
+* **[Level 1]** - **[Title 1]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions))
+* **[Level 2]** - **[Title 2]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions)) 
+* **[Level 3]** - **[Title 3]** ([# of Contributions](https://github.com/krishna18062005?tab=contributions)) 
 
-**FOLLOW ME** [@your_username](https://twitter.com/[your_username])
 
-**Currently Learning:** [What you are currently learning]
+**Currently Learning:** I'm currently learning Java.
 
-**All of my projects are available at:** [Your Portfolio Link]
+**All of my projects are available at:** https://github.com/krishmatrix.netlify.app
 
-**Ask me about:** [Your area of expertise]
+**Ask me about:** Programming
 
-**How to reach me:** [Your Email Address]
+**How to reach me:** krish1826s@gmail.com
 
-**Fun fact:** [Your Fun Fact]
 
-**Connect with me:**
 
-[![Link to your social media profile 1](link to your social media profile 1)]([link to your social media profile 1])
-[![Link to your social media profile 2](link to your social media profile 2)]([link to your social media profile 2])
-[![Link to your social media profile 3](link to your social media profile 3)]([link to your social media profile 3])
+
 
 ## Languages and Tools
 
-* [Language 1]
-* [Language 2]
-* [Tool 1]
-* [Tool 2]
+* Java
+* Python
+* Vs code
+* Github
 
 **Most Used Languages**
 
 [![pie chart of most used languages](link to your pie chart)]
 
-* [Language 1] - [Percentage]%
-* [Language 2] - [Percentage]%
-* [Language 3] - [Percentage]%
+* Java - 75%
+* Python - 5%
+* Html - 20%
 
 **Total Stars Earned:** [Number of Stars]
 
