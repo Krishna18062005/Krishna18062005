@@ -3,10 +3,8 @@
 **A Student from KRCE,Trichy**
 
 [![Followers](https://img.shields.io/github/followers/krishna18062005?style=social)](https://github.com/[your-username])
-[![Repositories](https://img.shields.io/github/repo/krishna18062005?style=social)](https://github.com/[your-username])
-[![Commits](https://img.shields.io/github/commits-year/krishna18062005?style=social)](https://github.com/[your-username])
-[![Stars](https://img.shields.io/github/stars/krishna18062005?style=social)](https://github.com/[your-username])
-[![Experience](https://img.shields.io/badge/Experience-Level_[level]?style=social)]()  
+
+
 [![Issues](https://img.shields.io/github/issues/krishna18062005?style=social)](https://github.com/[your-username]/issues)
 [![Pull Requests](https://img.shields.io/github/pulls/krishna18062005?style=social)](https://github.com/[your-username]/pulls)
 [![Reviews](https://img.shields.io/github/prs?q=is%3Aissue+author%3Akrishna18062005)?style=social](https://github.com/krishna18062005/pulls)
@@ -35,25 +33,12 @@
 
 **Most Used Languages**
 
-[![pie chart of most used languages](link to your pie chart)]
 
 * Java - 75%
 * Python - 5%
 * Html - 20%
 
-**Total Stars Earned:** [Number of Stars]
 
-**Total Commits (Year):** [Number of Commits] 
-
-**Total PRs:** [Number of Pull Requests]
-
-**Total Issues:** [Number of Issues]
-
-**Contributed to (last year):** [Number of Contributions]
-
-**Longest Streak:** [Start Date] - [End Date]
-
-**Current Streak:** [Start Date] - [End Date]
 
 <!---
 Krishna18062005/Krishna18062005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
