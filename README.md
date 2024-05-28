@@ -15,8 +15,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-<h3 align="left">Most used languages</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna18062005&layout=compact&theme=" alt="krishna18062005" />
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
 
