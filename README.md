@@ -18,7 +18,7 @@
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna18062005&layout=compact&theme=" alt="krishna18062005" />
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
+
 
 
 
