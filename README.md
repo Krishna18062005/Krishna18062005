@@ -19,5 +19,5 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
 
 
-
+<br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
