@@ -18,8 +18,6 @@
 <h3 align="left">Streaks:</h3>
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/krishna1806?theme=dark&font=Brygada%201918&ext=heatmap)](https://leetcode.com/u/krishna1806)
-
 
 
 
