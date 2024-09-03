@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 <h3 align="left">Streaks:</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=" alt="krishna18062005" /></p>
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krishna18062005)](https://git.io/streak-stats)
