@@ -18,7 +18,7 @@
 </p>
 <h3 align="left">Streaks:</h3>
 
-
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna18062005&layout=compact&theme=" alt=krishna18062005 />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=krishna18062005)](https://git.io/streak-stats)
 
