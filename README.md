@@ -21,7 +21,7 @@
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna18062005&layout=compact&theme=" alt=krishna18062005 />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krhishna18062005)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krishna18062005)](https://git.io/streak-stats)
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
