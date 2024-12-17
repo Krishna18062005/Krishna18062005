@@ -13,7 +13,7 @@ Hi there! 👋 I'm **Krishna**, a coding enthusiast from KRCE, Trichy, dedicated
 - **SkillRack:** 1750+ problems solved  
 - **LeetCode:** 322+ problems solved  
 - **CodeChef:** 250+ problems solved  
-- **Coding Ninjas:** 751 problems completed  
+- **Coding Ninjas:** 832+ problems completed  
 
 ---
 
