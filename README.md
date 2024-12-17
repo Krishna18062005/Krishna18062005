@@ -18,7 +18,7 @@ Hi there! 👋 I'm **Krishna**, a coding enthusiast from KRCE, Trichy, dedicated
 ---
 
 ## 🛠️ **Skills & Tools**
-![C](https://img.shields.io/badge/-C-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-yellow)
 ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey) ![Git](https://img.shields.io/badge/-Git-black) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)  
 
 ---
@@ -50,7 +50,7 @@ Hi there! 👋 I'm **Krishna**, a coding enthusiast from KRCE, Trichy, dedicated
 --- 
 
 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna18062005&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna18062005&show_icons=true&theme=radical)
 
 ---
 
