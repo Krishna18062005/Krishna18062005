@@ -1,4 +1,3 @@
-Here’s a personalized **README** based on your GitHub profile, achievements, and repositories:
 
 ---
 
