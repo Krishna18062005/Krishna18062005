@@ -1,20 +1,57 @@
-##  Hi, I'm Krishna
+Here’s a personalized **README** based on your GitHub profile, achievements, and repositories:
 
-**A Coding Enthusiast from KRCE,Trichy**
+---
 
+# 🚀 **Krishna K**  
 
-**Currently Learning:**  Machine Learning.
+### **Passionate Problem Solver | Developer | ML Enthusiast**  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishna18062005&label=Profile%20views&color=0e75b6&style=flat" alt="krishna18062005" /> </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
+Hi there! 👋 I'm **Krishna**, a coding enthusiast from KRCE, Trichy, dedicated to solving real-world problems through code and innovation.  
 
-[![KRISHNA's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krishna18062005&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
+## 📊 **My Coding Profiles**
+- **SkillRack:** 1750+ problems solved  
+- **LeetCode:** 322+ problems solved  
+- **CodeChef:** 250+ problems solved  
+- **Coding Ninjas:** 751 problems completed  
+
+---
+
+## 🛠️ **Skills & Tools**
+![C](https://img.shields.io/badge/-C-blue) ![Java](https://img.shields.io/badge/-Java-orange) ![Python](https://img.shields.io/badge/-Python-yellow) ![HTML](https://img.shields.io/badge/-HTML-red) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)  
+![MySQL](https://img.shields.io/badge/-MySQL-lightgrey) ![Git](https://img.shields.io/badge/-Git-black) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange)  
+
+---
+
+## 📂 **Pinned Projects**
+1. **[Heart-Disease-Prediction-Using-Federated-Learning](https://github.com/Krishna18062005/Heart-Disease-Prediction-Using-Federated-Learning-Algorithms)**
+   - Federated Learning model for heart disease prediction using TensorFlow/Keras.
+
+2. **[Automated Screenshot Generator](https://github.com/Krishna18062005/Automated-Screenshot-Generator-Using-Selenium)**
+   - Automates screenshot generation using Selenium.
+
+3. **[Coding Profiles Evaluator](https://github.com/Krishna18062005/Coding-Profiles-Evaluator-Using-Selenium)**
+   - Tool to analyze and evaluate coding profiles.
+
+4. **[GitHub Profile Analyser](https://github.com/Krishna18062005/Github-Profile-Analyser)**
+   - Analyze GitHub profiles for repository metrics and activity.
+
+---
+
+## 🌱 **Currently Learning**
+- **Machine Learning** and exploring **Federated Learning** algorithms.  
+- Improving problem-solving with **Java** and **Python**.  
+
+---
+
+## 📫 **Connect with Me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna-blue)](https://linkedin.com/krishnalo1806)  
+
+--- 
+
+📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna18062005&show_icons=true&theme=radical)
+
+---
+
