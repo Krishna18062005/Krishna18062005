@@ -23,33 +23,13 @@ Hi there! 👋 I'm **Krishna**, a coding enthusiast from KRCE, Trichy, dedicated
 
 ---
 
-## 📂 **Pinned Projects**
-1. **[Heart-Disease-Prediction-Using-Federated-Learning](https://github.com/Krishna18062005/Heart-Disease-Prediction-Using-Federated-Learning-Algorithms)**
-   - Federated Learning model for heart disease prediction using TensorFlow/Keras.
-
-2. **[Automated Screenshot Generator](https://github.com/Krishna18062005/Automated-Screenshot-Generator-Using-Selenium)**
-   - Automates screenshot generation using Selenium.
-
-3. **[Coding Profiles Evaluator](https://github.com/Krishna18062005/Coding-Profiles-Evaluator-Using-Selenium)**
-   - Tool to analyze and evaluate coding profiles.
-
-4. **[GitHub Profile Analyser](https://github.com/Krishna18062005/Github-Profile-Analyser)**
-   - Analyze GitHub profiles for repository metrics and activity.
-
----
-
 ## 🌱 **Currently Learning**
 - **Machine Learning** and exploring **Federated Learning** algorithms.  
 - Improving problem-solving with **Java** and **Python**.  
 
----
-
-## 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna-blue)](https://linkedin.com/krishnalo1806)  
-
 --- 
 
-📊 **GitHub Stats**  
+## 📊 **GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krishna18062005&show_icons=true&theme=radical)
 
 ---
