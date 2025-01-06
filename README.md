@@ -29,8 +29,8 @@
 
 ### 📊 **My Coding Profiles**
 - **SkillRack:** 1750+ problems solved  
-- **LeetCode:** 322+ problems solved  
-- **CodeChef:** 250+ problems solved  
+- **LeetCode:** 350+ problems solved  
+- **CodeChef:** 300+ problems solved  
 - **Coding Ninjas:** 832+ problems completed  
 
    </td>
