@@ -28,9 +28,9 @@
    <td valign="top" width="40%">
 
 ### 📊 **My Coding Profiles**
-- **SkillRack:** 1750+ problems solved  
-- **LeetCode:** 350+ problems solved  
-- **CodeChef:** 300+ problems solved  
+- **SkillRack:** 1760+ problems solved  
+- **LeetCode:** 407+ problems solved  
+- **CodeChef:** 423+ problems solved  
 - **Coding Ninjas:** 832+ problems completed  
 
    </td>
