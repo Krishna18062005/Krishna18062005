@@ -54,22 +54,6 @@
 
 ---
 
-<h2 align="center">📚 Professional Journey</h2>
-
-<ul>
-  <li><strong>B.Tech in CSBS</strong><br>
-      K. Ramakrishnan College of Engineering | CGPA: 8.16 | Expected Graduation: May 2026</li>
-  <li><strong>Key Projects:</strong>
-    <ul>
-      <li><em>Heart Disease Prediction Using Federated Learning</em>: Achieved 92% accuracy while preserving data privacy.</li>
-      <li><em>FactoryFlowAI</em>: Optimized manufacturing workflows with real-time monitoring and AI-driven task management.</li>
-      <li><em>Personal Portfolio & Achievements Website</em>: Developed with Next.js and Tailwind CSS.</li>
-    </ul>
-  </li>
-</ul>
-
----
-
 <h2 align="center">🌟 Leadership Experience</h2>
 
 <ul>
@@ -83,6 +67,23 @@
       - Fostered an environment of innovation through structured technical events.</li>
 </ul>
 
+
+---
+
+
+<h2 align="center">📚 Professional Journey</h2>
+
+<ul>
+  <li><strong>B.Tech in CSBS</strong><br>
+      K. Ramakrishnan College of Engineering | CGPA: 8.16 | Expected Graduation: May 2026</li>
+  <li><strong>Key Projects:</strong>
+    <ul>
+      <li><em>Heart Disease Prediction Using Federated Learning</em>: Achieved 92% accuracy while preserving data privacy.</li>
+      <li><em>FactoryFlowAI</em>: Optimized manufacturing workflows with real-time monitoring and AI-driven task management.</li>
+      <li><em>Personal Portfolio & Achievements Website</em>: Developed with Next.js and Tailwind CSS.</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
