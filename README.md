@@ -65,18 +65,7 @@
       - Organized and led 10+ offline events in collaboration with The Institution of Engineers (India).<br>
       - Coordinated with students and faculty to drive technical excellence and community engagement.<br>
       - Fostered an environment of innovation through structured technical events.</li>
-</ul>
-
-
----
-
-
-<h2 align="center">📚 Professional Journey</h2>
-
-<ul>
-  <li><strong>B.Tech in CSBS</strong><br>
-      K. Ramakrishnan College of Engineering | CGPA: 8.16 | Expected Graduation: May 2026</li>
-  <li><strong>Key Projects:</strong>
+   <li><strong>Key Projects:</strong>
     <ul>
       <li><em>Heart Disease Prediction Using Federated Learning</em>: Achieved 92% accuracy while preserving data privacy.</li>
       <li><em>FactoryFlowAI</em>: Optimized manufacturing workflows with real-time monitoring and AI-driven task management.</li>
@@ -85,7 +74,6 @@
   </li>
 </ul>
 
----
 
 <h2 align="center">🤝 Let's Connect</h2>
 
