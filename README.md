@@ -88,8 +88,4 @@
 
 <h2 align="center">🤝 Let's Connect</h2>
 
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/krishnalo1806">LinkedIn</a>
-  Email: <a href="mailto:krish1826s@gmail.com">krish1826s@gmail.com</a> | Phone: +91 8667815090
-</p>
+
