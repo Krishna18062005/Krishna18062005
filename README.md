@@ -75,7 +75,7 @@
 <ul>
   <li><strong>Team Leader, Innovate and Inspire</strong> (K. Ramakrishnan College of Engineering)<br>
       - Led a team of 10+ members to organize 100+ technical and non-technical events.<br>
-      - Executed ten seasons of national-level symposiums with 5000+ participants.<br>
+      - Executed ten seasons of national-level symposiums with 10000+ participants.<br>
       - Collaborated with faculty and peers to ensure high engagement and smooth event coordination.</li>
   <li><strong>Vice President, The Institution of Engineers (India) Club</strong><br>
       - Organized and led 10+ offline events in collaboration with The Institution of Engineers (India).<br>
@@ -90,6 +90,6 @@
 
 <p align="center">
   
-  <a href="https://www.linkedin.com/in/krishnalo1806">LinkedIn</a><br>
+  <a href="https://www.linkedin.com/in/krishnalo1806">LinkedIn</a>
   Email: <a href="mailto:krish1826s@gmail.com">krish1826s@gmail.com</a> | Phone: +91 8667815090
 </p>
