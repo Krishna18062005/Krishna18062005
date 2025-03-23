@@ -75,7 +75,7 @@
 <ul>
   <li><strong>Team Leader, Innovate and Inspire</strong> (K. Ramakrishnan College of Engineering)<br>
       - Led a team of 10+ members to organize 100+ technical and non-technical events.<br>
-      - Executed ten seasons of national-level symposiums with 500+ participants.<br>
+      - Executed ten seasons of national-level symposiums with 5000+ participants.<br>
       - Collaborated with faculty and peers to ensure high engagement and smooth event coordination.</li>
   <li><strong>Vice President, The Institution of Engineers (India) Club</strong><br>
       - Organized and led 10+ offline events in collaboration with The Institution of Engineers (India).<br>
