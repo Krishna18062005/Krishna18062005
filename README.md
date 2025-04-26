@@ -12,17 +12,13 @@ I'm a passionate developer, innovator, and leader with a drive to build impactfu
 </p>
 
 
-
-
 ## 🎯 Player Stats
 
 *   **🔥 Current Level:** Software Developer, Problem Solver, & Competitive Coder
 *   **🛠️ Weapons:** Java, Git, SQL
 *   **🧩 Quest:** Conquering LeetCode & Hackathon Challenges
 *   **⚔️ Special Move:** Building Solutions Using AI
-
-
-
+*   
 ## 🚀 My Journey & Highlights
 
 I thrive on challenges and celebrating milestones. Here are a few highlights:
@@ -51,7 +47,6 @@ Dedicated to honing my problem-solving skills across various platforms:
 *   **LeetCode:** 460+ problems solved 🔥
 *   **CodeChef:** 443+ problems solved ⭐
 *   **Coding Ninjas:** 832+ challenges completed 🥷
-
 
 
 ## 🧑‍🤝‍🧑 Leadership & Community Impact
