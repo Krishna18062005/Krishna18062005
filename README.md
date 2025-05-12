@@ -45,9 +45,9 @@ I thrive on challenges and celebrating milestones. Here are a few highlights:
 Dedicated to honing my problem-solving skills across various platforms:
 
 *   **SkillRack:** 1760+ problems solved 🧠
-*   **LeetCode:** 460+ problems solved 🔥
-*   **CodeChef:** 443+ problems solved ⭐
-*   **Coding Ninjas:** 832+ challenges completed 🥷
+*   **LeetCode:** 475+ problems solved 🔥
+*   **CodeChef:** 463+ problems solved ⭐
+
 
 
 ## 🧑‍🤝‍🧑 Leadership & Community Impact
