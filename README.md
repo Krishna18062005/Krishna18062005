@@ -18,7 +18,7 @@ I'm a passionate developer, innovator, and leader with a drive to build impactfu
 *   **🛠️ Weapons:** Java, Git, SQL
 *   **🧩 Quest:** Conquering LeetCode & Hackathon Challenges
 *   **⚔️ Special Move:** Building Solutions Using AI
-*   
+   
 ## 🚀 My Journey & Highlights
 
 I thrive on challenges and celebrating milestones. Here are a few highlights:
@@ -26,6 +26,7 @@ I thrive on challenges and celebrating milestones. Here are a few highlights:
 *   **🏅 Award-Winning Coder:**
     *   🏆 **Best Coding Engineer Award 2023** (State Level Winner @ CADD Centre, Trichy)
     *   🥇 **Discovering the Master Minds of Code Winner 2024** (Intra-College @ K. Ramakrishnan College of Engineering)
+    *   🥇 **Chasing Bugs Winner 2025** (Intra-College @ K. Ramakrishnan College of Engineering)
     *   🥇 **1st Prize in Debugging** (@ Care College of Engineering)
     *   🥈 **2nd Prize in Blind Coding** (@ Sri Krishna College of Technology)
     *   🥉 **3rd Prize in Code Relay** (@ Sri Krishna College of Technology)
