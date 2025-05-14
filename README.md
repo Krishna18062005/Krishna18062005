@@ -1,23 +1,25 @@
+  
 # ✍️ Welcome to Krishna's Creative & Coding Chronicles
-<p align="center">
-📖  Code is poetry, and every line I write tells a story.
-</p>
 
 
+
+<p align="center">📖  Code is poetry, and every line I write tells a story.</p>
+  
 I'm **Krishna**, an aspiring writer, award-winning coder, and visionary leader crafting impact through both **words** and **software**. Whether I'm authoring code or composing ideas, I believe in the power of storytelling to inspire, build, and transform.
-
-<p align="center">
-  <!-- Stars -->
-  <img src="https://img.shields.io/github/stars/Krishna18062005?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=Krishna18062005&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ## 🧠 Who Am I?
 
 A passionate **developer by day** and a **storyteller by soul**, I'm currently immersed in the world of software development while penning down thoughts that resonate beyond logic. I combine creativity, code, and community to create solutions that matter.
 
+<p align="center">
+  
+  
 
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/Krishna18062005?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+  <!-- Visitor Count -->
+  <img src="https://komarev.com/ghpvc/?username=Krishna18062005&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
 
 ## 📝 The Author in Me
 
