@@ -10,7 +10,7 @@
 
 </p>
 
-<h2 align="center" > Crafting Impact Through Code, Creativity, and Community </h2>
+
  
 <table>
   <tr>
@@ -70,20 +70,11 @@ I merge my love for writing and development to create resources that are practic
 I love connecting with developers, writers, and builders. Whether it's a product or a publication — let's bring ideas to life.
 
 
-</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-
-
-
-
-
-
-
- 📌 *"Great code is written with logic; great stories are written with heart. I do both."*  
+📌 *"Great code is written with logic; great stories are written with heart. I do both."*  
                                                                                       — Krishna
 
-  </td>
+</td>
   </tr>
+  
+    
 </table>
