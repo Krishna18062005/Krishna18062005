@@ -22,7 +22,7 @@ I'm a **developer by day** and a **storyteller by soul**, blending creativity wi
 
 ### ✍️ The Author Side
 
-📚 **Published Writer** — My debut book is available in **12+ countries** on [Amazon](https://www.amazon.com/).  
+📚 **Published Writer** — My debut book is available in **12+ countries** on [Amazon](https://www.amazon.com/dp/B0F3QDHDGL).  
 📝 I simplify complex concepts through engaging technical writing, storytelling, and educational content.
 
 ### 🌱 Innovate and Inspire
