@@ -2,12 +2,14 @@
 
 <p align="center">
 
-  <!-- Stars -->
+ 
+ 
+   <!-- Stars -->
   <img src="https://img.shields.io/github/stars/Krishna18062005?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  
   <!-- Visitor Count -->
-  <img src="https://komarev.com/ghpvc/?username=Krishna18062005&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://komarev.com/ghpvc/?username=Krishna18062005&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" /><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=light" width="400" />
+  
 </p>
 
 
