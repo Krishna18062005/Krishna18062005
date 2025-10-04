@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/stars/Krishna18062005?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
   <!-- Visitor Count -->
   <img src="https://komarev.com/ghpvc/?username=Krishna18062005&label=Visitors&color=ff69b4&style=for-the-badge" alt="Profile Views" /><br/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Krishna18062005&theme=light" width="400" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna18062005&theme=light" width="400" />
   
 </p>
 
@@ -59,8 +59,8 @@ As **Founder & Chief Patron**, I’ve:
 ### 💻 Coding Footprint
 
 - 🔥 SkillRack: 1760+ problems solved  
-- ⚔️ LeetCode: 563+ challenges completed  
-- ⭐ CodeChef: 623+ problems tackled  
+- ⚔️ LeetCode: 604+ challenges completed  
+- ⭐ CodeChef: 648+ problems tackled  
 
 
 ### 📘 Tech Meets Creativity
