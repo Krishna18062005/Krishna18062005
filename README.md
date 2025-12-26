@@ -12,7 +12,7 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krishna18062005&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Krishna18062005&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 </p>
