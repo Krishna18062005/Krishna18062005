@@ -63,9 +63,9 @@ As **Founder & Chief Patron**, I’ve:
 
 ### 💻 Coding Footprint
 
-- 🔥 SkillRack: 1760+ problems solved  
-- ⚔️ LeetCode: 700+ challenges completed  
-- ⭐ CodeChef: 680+ problems tackled  
+- 🔥 SkillRack: 1760 problems solved  
+- ⚔️ LeetCode: 700 challenges completed  
+- ⭐ CodeChef: 680 problems tackled  
 
 
 ### 📘 Tech Meets Creativity
